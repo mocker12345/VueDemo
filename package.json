@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "vue": "^1.0.26"
+    "vue": "^2.5.17"
   },
   "devDependencies": {},
   "scripts": {
